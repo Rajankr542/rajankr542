@@ -99,14 +99,6 @@ Open to discussions around system design challenges and building scalable produc
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajankr542/rajankr542/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajankr542/rajankr542/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/rajankr542/rajankr542/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/t92vc8odre1mrwhnr2upt9ag3">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=t92vc8odre1mrwhnr2upt9ag3&count=1" />
