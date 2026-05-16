@@ -31,7 +31,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Senior Full-Stack Engineer with <strong>6+ years of experience</strong> building and scaling <strong>cloud-native, high-performance web applications</strong>.
+Senior Full-Stack Engineer with <strong>7+ years of experience</strong> building and scaling <strong>cloud-native, high-performance web applications</strong>.
 </p>
 
 <p align="left">
