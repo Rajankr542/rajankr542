@@ -100,7 +100,7 @@ Open to discussions around system design challenges and building scalable produc
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/t92vc8odre1mrwhnr2upt9ag3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=t92vc8odre1mrwhnr2upt9ag3&count=1" />
+  <a href="https://www.youtube.com/@rajankr542">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="100" />
   </a>
 </div>
