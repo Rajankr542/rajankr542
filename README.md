@@ -97,6 +97,16 @@ Open to discussions around system design challenges and building scalable produc
   <img src="https://streak-stats.demolab.com/?user=rajankr542&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220"/>
 </div>
 
+
+###
+## Support
+
+If my contributions has been useful to you, consider buying me a coffee — it helps fund continued development!
+
+<a href="https://www.buymeacoffee.com/rajankr542" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+</a>
+
 ###
 
 <div align="center">
